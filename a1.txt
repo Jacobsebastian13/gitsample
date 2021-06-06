@@ -7,3 +7,4 @@ catalunya
 culers
 BARCA
 FCB
+messi,suarez
