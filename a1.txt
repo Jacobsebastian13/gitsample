@@ -8,3 +8,4 @@ culers
 BARCA
 FCB
 messi,suarez
+puyol,xavi
